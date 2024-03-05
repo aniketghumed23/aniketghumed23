@@ -117,7 +117,6 @@ Here are some highlights of my work:
 
 - **Real-Time Pose Estimation** - 🏃‍♂️ Utilizing Python and MediaPipe Holistic model, this project implements a real-time pose estimation system to track body movements through a webcam.
 
-> Note: Replace `#` with the actual URL to your project's repository.
 
 ## 🎓 Certificates
 Proudly earned certifications that validate my skills and commitment to learning:
