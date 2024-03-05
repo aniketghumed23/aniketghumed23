@@ -22,7 +22,7 @@ Charlotte, NC, USA
 
 ## 📫 Contact Me
 - Email: aniketghumed23@gmail.com
-- LinkedIn: [aniketghumed](https://www.linkedin.com/in/aniketghumed/)
+- LinkedIn: [www.linkedin.com/in/aniketghumed](https://www.linkedin.com/in/aniketghumed/)
 - Portfolio: [aniketghumed23.github.io/portfolio](https://aniketghumed23.github.io/portfolio/)
 - GitHub: [github.com/aniketghumed23](https://github.com/aniketghumed23)
 
