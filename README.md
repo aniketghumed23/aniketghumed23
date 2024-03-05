@@ -109,13 +109,13 @@ Charlotte, NC, USA
 ## 🚀 Projects
 Here are some highlights of my work:
 
-- **AgileBoard** - 📋 A dynamic Project Management Tool built with the MERN Stack, designed to streamline task coordination and project tracking for teams. [View Repo](#)
+- **AgileBoard** - 📋 A dynamic Project Management Tool built with the MERN Stack, designed to streamline task coordination and project tracking for teams.
 
-- **3D Tic Tac Toe Game** - 🎮 A challenging twist on the classic game developed in Java, featuring a 3D playing field and an advanced AI opponent. [View Repo](#)
+- **3D Tic Tac Toe Game** - 🎮 A challenging twist on the classic game developed in Java, featuring a 3D playing field and an advanced AI opponent.
 
-- **Restaurant Search Chat-bot** - 🤖 Leveraging the Rasa framework, this intuitive chatbot aids in discovering restaurants across Indian cities, powered by the Zomato API. [View Repo](#)
+- **Restaurant Search Chat-bot** - 🤖 Leveraging the Rasa framework, this intuitive chatbot aids in discovering restaurants across Indian cities, powered by the Zomato API.
 
-- **Real-Time Pose Estimation** - 🏃‍♂️ Utilizing Python and MediaPipe Holistic model, this project implements a real-time pose estimation system to track body movements through a webcam. [View Repo](#)
+- **Real-Time Pose Estimation** - 🏃‍♂️ Utilizing Python and MediaPipe Holistic model, this project implements a real-time pose estimation system to track body movements through a webcam.
 
 > Note: Replace `#` with the actual URL to your project's repository.
 
