@@ -113,13 +113,13 @@ Here are some highlights of my work:
 
 - **3D Tic Tac Toe Game** - 🎮 A challenging twist on the classic game developed in Java, featuring a 3D playing field and an advanced AI opponent.
 
-- **Restaurant Search Chat-bot** - 🤖 Leveraging the Rasa framework, this intuitive chatbot aids in discovering restaurants across Indian cities, powered by the Zomato API.
-
-- **Real-Time Pose Estimation** - 🏃‍♂️ Utilizing Python and MediaPipe Holistic model, this project implements a real-time pose estimation system to track body movements through a webcam.
-
 - **TODO List React App** - ✅ A responsive and interactive to-do list built with React, featuring task addition, deletion, and categorization, optimized for efficient daily task management.
 
 - **Typing Speed Tester** - ⌨️ A JavaScript, HTML, and CSS-based tool for measuring typing speed and accuracy, offering users different levels of typing challenges with real-time feedback.
+
+- **Restaurant Search Chat-bot** - 🤖 Leveraging the Rasa framework, this intuitive chatbot aids in discovering restaurants across Indian cities, powered by the Zomato API.
+
+- **Real-Time Pose Estimation** - 🏃‍♂️ Utilizing Python and MediaPipe Holistic model, this project implements a real-time pose estimation system to track body movements through a webcam.
 
 
 
