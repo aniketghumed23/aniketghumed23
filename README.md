@@ -106,18 +106,33 @@ Charlotte, NC, USA
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 
 
-## 🛠️ Projects
-- **AgileBoard**: A Project Management Tool using MERN Stack.
-- **3D Tic Tac Toe Game**: A complex 3D Tic Tac Toe game in Java with AI.
-- **Restaurant Search Chat-bot**: An intuitive chatbot using the Rasa framework and Zomato API.
-- **Real-Time Pose Estimation**: Real-time pose estimation system using Python and MediaPipe Holistic model.
+## 🚀 Projects
+Here are some highlights of my work:
 
-## 📜 Certificates
-- Post Graduate Diploma in Advanced Computing (CDAC)
-- Post Graduate Diploma in Machine Learning and Artificial Intelligence (IIIT Bangalore)
-- Associate Google Cloud Engineer
-- AWS Cloud Foundations
-- AWS Machine Learning Foundations
+- **AgileBoard** - 📋 A dynamic Project Management Tool built with the MERN Stack, designed to streamline task coordination and project tracking for teams. [View Repo](#)
+
+- **3D Tic Tac Toe Game** - 🎮 A challenging twist on the classic game developed in Java, featuring a 3D playing field and an advanced AI opponent. [View Repo](#)
+
+- **Restaurant Search Chat-bot** - 🤖 Leveraging the Rasa framework, this intuitive chatbot aids in discovering restaurants across Indian cities, powered by the Zomato API. [View Repo](#)
+
+- **Real-Time Pose Estimation** - 🏃‍♂️ Utilizing Python and MediaPipe Holistic model, this project implements a real-time pose estimation system to track body movements through a webcam. [View Repo](#)
+
+> Note: Replace `#` with the actual URL to your project's repository.
+
+## 🎓 Certificates
+Proudly earned certifications that validate my skills and commitment to learning:
+
+- ![CDAC](https://img.shields.io/badge/CDAC-Advanced_Computing-blue?style=flat-square) - **Post Graduate Diploma in Advanced Computing**
+
+- ![IIITB](https://img.shields.io/badge/IIIT_Bangalore-Machine_Learning_and_AI-blue?style=flat-square) - **Post Graduate Diploma in Machine Learning and Artificial Intelligence**
+
+- ![GCP](https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-blue?style=flat-square) - **Associate Google Cloud Engineer**
+
+- ![AWS CF](https://img.shields.io/badge/AWS-Cloud_Foundations-blue?style=flat-square) - **AWS Cloud Foundations**
+
+- ![AWS ML](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-blue?style=flat-square) - **AWS Machine Learning Foundations**
+
+
 
 Thank you for visiting my profile. Let's connect and explore how we can collaborate on future projects!
 
