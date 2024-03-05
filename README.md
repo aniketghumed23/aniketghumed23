@@ -117,9 +117,9 @@ Here are some highlights of my work:
 
 - **Real-Time Pose Estimation** - 🏃‍♂️ Utilizing Python and MediaPipe Holistic model, this project implements a real-time pose estimation system to track body movements through a webcam.
 
-**TODO List React App** - ✅ A responsive and interactive to-do list built with React, featuring task addition, deletion, and categorization, optimized for efficient daily task management.
+- **TODO List React App** - ✅ A responsive and interactive to-do list built with React, featuring task addition, deletion, and categorization, optimized for efficient daily task management.
 
-**Typing Speed Tester** - ⌨️ A JavaScript, HTML, and CSS-based tool for measuring typing speed and accuracy, offering users different levels of typing challenges with real-time feedback.
+- **Typing Speed Tester** - ⌨️ A JavaScript, HTML, and CSS-based tool for measuring typing speed and accuracy, offering users different levels of typing challenges with real-time feedback.
 
 
 
